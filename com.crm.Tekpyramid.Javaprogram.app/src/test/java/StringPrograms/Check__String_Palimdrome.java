@@ -18,6 +18,9 @@ public class Check__String_Palimdrome {
 		}
 		else {
 			System.out.println(" Not Palimdrone");
+			System.out.println("I...");
+			System.out.println(" doller hate");
+			System.out.println("aakshu");
 
 		}
 		
